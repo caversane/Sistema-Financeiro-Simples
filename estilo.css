@@ -1,0 +1,106 @@
+
+
+
+
+body{
+
+	
+}
+
+
+table.fontetable {
+
+
+    color:white;
+    font-family: Arial ;
+    font-size: large;
+
+}
+
+.tdfont {
+
+color:white;
+font-family: Arial ;
+font-size: large; }
+
+.formfont {
+
+    background: -webkit-linear-gradient(bottom, rgba(2, 7, 8, 0.22), rgba(2, 7, 8, 0) 70%);
+    background: -moz-linear-gradient(bottom, rgba(2, 7, 8, 0.5), #F9F9F9 70%);
+    background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    color: #2F4F4F;
+    font-family: Arial ;
+    font-size: medium;
+    padding:25px;
+
+
+}
+
+.botao01{
+    background: -webkit-linear-gradient(bottom, rgba(2, 7, 8, 0.22), rgba(2, 7, 8, 0) 70%);
+    background: -moz-linear-gradient(bottom, rgba(2, 7, 8, 0.5), #F9F9F9 70%);
+    background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    border: 1px solid #020708;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+    0 2px 7px rgba(0, 0, 0, 0.2);
+    color: #616165;
+    display: block;
+    font-family: "Trebuchet MS";
+    font-size: 9px;
+    font-weight: bold;
+    line-height: 11px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow:1px 1px 0 #FFF;
+    padding: 3px 10px;
+    position: relative;
+    width: 40px;
+}
+
+
+.botao02{
+    background: -webkit-linear-gradient(bottom, rgba(2, 7, 8, 0.22), rgba(2, 7, 8, 0) 70%);
+    background: -moz-linear-gradient(bottom, rgba(2, 7, 8, 0.5), #F9F9F9 70%);
+    background: -o-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    background: -ms-linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    background: linear-gradient(bottom, #E0E0E0, #F9F9F9 70%);
+    border: 1px solid #020708;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 rgba(0, 0, 0, .3),
+    0 2px 7px rgba(0, 0, 0, 0.2);
+    color: #616165;
+    display: block;
+    font-family: "Trebuchet MS";
+    font-size: 10px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow:1px 1px 0 #FFF;
+    padding: 3px 10px;
+    position: relative;
+    width: 60px;
+}
+
+.borda1 {
+
+    border: 1px;
+    border-color: #1883ba;
+
+
+
+}
+
+div {
+    width:1100px;
+    height:300px;
+    overflow: auto;
+
+}
